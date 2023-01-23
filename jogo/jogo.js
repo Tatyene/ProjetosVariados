@@ -17,6 +17,7 @@ if (nivel === 'normal') {
 } else if (nivel === 'chucknorris') {
     // 750milisec
     criaMosquitoTempo = 750
+    // console.log("teste git")
 }
 
 function ajustaTamanhoPalcoJogo() {
